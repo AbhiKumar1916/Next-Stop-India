@@ -5,7 +5,7 @@ function Tours({ tours, removeTour }) {
     <div className="container">
       {/* heading */}
       <div>
-        <h2 className="title">Plan With Love</h2>
+        <h2 className="title">Next Stop India</h2>
       </div>
       {/* content */}
       <div className="cards">
